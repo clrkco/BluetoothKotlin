@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothKotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable">Enable</string>
+    <string name="visible">Visible</string>
+    <string name="my_bt_name">my Bt Name</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_control">control</string>
+</resources>
